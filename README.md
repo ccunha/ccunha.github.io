@@ -1,1 +1,1 @@
-# Págna pessoal com informações profissionais.
+# Págna informações profissionais.
